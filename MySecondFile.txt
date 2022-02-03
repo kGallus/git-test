@@ -1,2 +1,1 @@
-This is some wrong text
-sOMETHING NEW
+This is my first file
